@@ -1,1 +1,1 @@
-# Android & Node.js 연결 - Test File
+**Android & Node.js 연결 - 테스트 데모 프로젝트**
